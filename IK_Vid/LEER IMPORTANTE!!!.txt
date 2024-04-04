@@ -1,1 +1,3 @@
+Este código corresponde al video #1 de la construcción del robot Hexapod
+
 Para que se cargue el código completo, se tiene que abrir desde el archivo llamado "IK_Vid.ino", así tendrán las tres pestañas disponibles en el IDE de Arduino y ese archivo debe estar dentro una carpeta del mismo nombre "IK_Vid"
